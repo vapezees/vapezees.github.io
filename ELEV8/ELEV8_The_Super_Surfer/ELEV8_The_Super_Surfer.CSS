@@ -134,7 +134,7 @@ div.Container_Navbar{
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     font-weight: bold;
-    font-size: calc(2.5vw + 5px);
+    font-size: calc(2.5vw + 10px);
 }
 
 
@@ -225,8 +225,8 @@ div.Section_B1{
 
 div.Des_Display{
     padding-top: .05vh;
-    padding-left: 2vw;
-    width: 97vw;
+    padding-left: 2.2vw;
+    width: 96vw;
     height: calc(4Vh + 16vw + 10px); /*calc( 15vh + 5vw);*/
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
